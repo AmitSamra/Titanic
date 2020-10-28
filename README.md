@@ -1,4 +1,6 @@
 # Titanic
 
-The Jupyter Notebook Titanic.ipynb contains exploratory analysis on the Titanic dataset from Kaggle.
+This repo contains exploratory analysis on the Titanic dataset from Kaggle.
 
+Titanic.ipynb contains the analysis. 
+train.csv contains data
